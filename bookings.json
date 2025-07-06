@@ -1,0 +1,30 @@
+[
+    {
+        "BookingID": "ef07c22c-fb23-4683-b66a-b1deb63e0573",
+        "Guest": "e171fc77-67fb-4e66-b7d9-8781fa8ab3e8",
+        "RoomID": "101",
+        "CheckIn": "2023-10-01 00:00:00",
+        "CheckOut": "2023-10-05 00:00:00",
+        "RoomType": "Single",
+        "Status": "cancelled",
+        "CancelledAt": "2025-07-05 01:39:22"
+    },
+    {
+        "BookingID": "a645be9b-d399-4f91-9be3-e352b884451a",
+        "Guest": "e171fc77-67fb-4e66-b7d9-8781fa8ab3e8",
+        "RoomID": "101",
+        "CheckIn": "2023-10-01 00:00:00",
+        "CheckOut": "2023-10-05 00:00:00",
+        "RoomType": "Single",
+        "Status": "confirmed"
+    },
+    {
+        "BookingID": "eb6de602-bd5d-4eb3-a12d-7a0aaf5c2a7f",
+        "Guest": "e171fc77-67fb-4e66-b7d9-8781fa8ab3e8",
+        "RoomID": "101",
+        "CheckIn": "2023-10-01 00:00:00",
+        "CheckOut": "2023-10-05 00:00:00",
+        "RoomType": "Single",
+        "Status": "confirmed"
+    }
+]

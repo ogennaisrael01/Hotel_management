@@ -1,0 +1,14 @@
+[
+    {
+        "RoomID": 102,
+        "Type": "Single",
+        "Status": true,
+        "Price": 300.0
+    },
+    {
+        "RoomID": 103,
+        "Type": "Suite",
+        "Status": true,
+        "Price": 200.0
+    }
+]

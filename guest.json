@@ -1,0 +1,10 @@
+[
+    {
+        "GuestID": "e171fc77-67fb-4e66-b7d9-8781fa8ab3e8",
+        "Name": "John Doe",
+        "Email": "john.doe@example.com",
+        "Phone": 1234567890,
+        "Address": "123 Elm St",
+        "Assigned_room": "101"
+    }
+]
