@@ -60,6 +60,7 @@ def room_management():
                 else:
                     print("Rooms saved")
             case 2:
+                print("\n==== Available Rooms ====")
                 rooms = room.view_rooms()
                 for reservation in rooms:
                     status = "Available" if reservation.get("available", True) else "Occupied"
